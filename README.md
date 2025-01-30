@@ -10,7 +10,7 @@
 
 <img align="left" alt="Star" width="30px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdmY3dibnZtYWdvZGdqOHdkNWwzbGR5b2w2eDJudWc4MTRiYjR0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh869bOyjfvQboXCO/giphy.gif"/> &nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am a web developer and I specialize in game development. I love to learn and build something new, productive, innovative, and creative.
+I am a computer engineering student, currently halfway through my degree. I am a web developer and I game development. I love to learn and build something new, productive, innovative, and creative.
 
 - ☁️ I’m currently learning...
   - Python
